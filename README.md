@@ -73,3 +73,24 @@ Compare com a posição dos termos: 1; 2; 3; 4; 5; 6;....<br>
 - Neste caso o número negativo não deve ser considerado como o menor valor. Caso somente um unico número negativo seja lido, a número deve devolver 0 (zero).
 - Em seguida, escreva a número _le_e_devolve maior()_ que leia uma sequência de números inteiros e devolva (retorne) o maior número. A entrada de um número negativo indica que sequência terminou. Caso somente um uúnico número negativo seja lido, a número deve devolver 0 (zero).
 - OBS: você não precisa usar vetores ou listas para fazer essa questão. Basta ler uma sequência de números um a um usando a mesma variável e comparando com o menor ou maior (a depender da número) valor atual.
+
+
+# AC 05
+**1. Escreva a função todos os indices(seq, x) que recebe uma sequência seq (lista, tupla ou string), e devolve uma lista em Python com todos os índices de seq em que o valor x ocorre. Caso não exista nenhuma ocorrência de x, a função devolve uma lista vazia.**
+
+**2. Escreva a função interseccao(lista1, lista2) que recebe 2 listas de números inteiros em Python e devolve uma lista que contém os números que aparecem nas duas listas ao mesmo tempo. A lista calculada (resultado da funçãao) não deve conter números repetidos, e deve estar em ordem crescente.**
+
+**3. Construa um programa em Python que lê (nesta ordem) uma string s e 4 números inteiros i1, f1, i2 e f2.**
+- Os números i1 e f1 representam os índices inicial e final (inclusive) do fatiamento (slice) s1da string s.
+- Os núumeros i2 e f2 representam os índices inicial e final (inclusive) do fatiamento (slice) s2 da string s.<br>
+Você deve ler os cinco valores nesta ordem:
+1. string s
+2. inteiro i1
+3. inteiro f1
+4. inteiro i2
+5. inteiro f2
+
+**4. Construa a função media pares impares(lista) que recebe uma lista de números, calcula a média dos pares e a média dos ímpares da lista (separadamente), e exibe (imprime) esses valores nessa ordem. 
+A função NÂO devolve (retorna) nenhum valor.**
+- Dica: Nesta função voccê DEVE exibir os resultados usando a função print().
+- Dica: Não formate, trunque ou modifique o resultado obtido.
