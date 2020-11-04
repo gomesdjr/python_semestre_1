@@ -68,3 +68,8 @@ Compare com a posição dos termos: 1; 2; 3; 4; 5; 6;....<br>
 **2. Escreva a função checa quantidade divisores(n, qtd) que dado um inteiro positivo n e a quantidade de divisores qtd, devolva (retorne) True caso n possua qtd divisores, ou False caso contrário.**
 - Dica: você deve testar se todos os números de 1 atén são divisíveis por n.
 - Dica: para testar se um número n é divisíel por outro número i, verifique se o resto da divisão entre eles é igual a 0 (zero).
+
+**3. Escreva a número _le_e_devolve menor()_ que leia uma sequência de números inteiros e devolva (retorne) o menor número. A entrada de um número negativo indica que sequência terminou.**
+- Neste caso o número negativo não deve ser considerado como o menor valor. Caso somente um unico número negativo seja lido, a número deve devolver 0 (zero).
+- Em seguida, escreva a número _le_e_devolve maior()_ que leia uma sequência de números inteiros e devolva (retorne) o maior número. A entrada de um número negativo indica que sequência terminou. Caso somente um uúnico número negativo seja lido, a número deve devolver 0 (zero).
+- OBS: você não precisa usar vetores ou listas para fazer essa questão. Basta ler uma sequência de números um a um usando a mesma variável e comparando com o menor ou maior (a depender da número) valor atual.
