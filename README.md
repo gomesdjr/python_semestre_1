@@ -90,6 +90,15 @@ Você deve ler os cinco valores nesta ordem:
 4. inteiro i2
 5. inteiro f2
 
+Entrada:<br>
+Os planos deram certo. Tem que pensar alto.<br>
+3<br>
+6<br>
+38<br>
+41<br>
+
+Saida: planalto
+
 **4. Construa a função media pares impares(lista) que recebe uma lista de números, calcula a média dos pares e a média dos ímpares da lista (separadamente), e exibe (imprime) esses valores nessa ordem. 
 A função NÂO devolve (retorna) nenhum valor.**
 - Dica: Nesta função voccê DEVE exibir os resultados usando a função print().
