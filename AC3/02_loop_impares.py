@@ -1,6 +1,3 @@
-# Aluno: Diego Junior Gomes
-# RA: 1904172
-
 n = int(input())
 m = int(input())
 
