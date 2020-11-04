@@ -1,7 +1,3 @@
-"""
-Aluno: Diego Junior Gomes
-RA: 1904172
-"""
 import math
 
 angulo = float(input())
