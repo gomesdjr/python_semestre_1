@@ -1,6 +1,3 @@
-# Aluno: Diego Junior Gomes
-# RA: 1904172
-
 def massa_c(imc):
     if imc < 17.0:
         print("Muito abaixo do peso")
