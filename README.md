@@ -1,1 +1,1 @@
-# python_semestre_1
+# Atividades realizadas durante o primeiro semestre da faculdade na disciplina de Linguagem de Programação.
