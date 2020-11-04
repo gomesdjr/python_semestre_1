@@ -59,3 +59,12 @@ Compare com a posição dos termos: 1; 2; 3; 4; 5; 6;....<br>
 **Ordem das intruções:**
 - Leia n > 0.
 - A saída deve ser uma única linha contendo apenas o resultado da somatóoria formatado para exibir 6 casas de precisão. Neste caso, para fazer o arredondamento utilize o comando print("f0:.6fg".format(S)) para exibir a saída na tela, onde S é a variável que armazenao somatóorio da série.
+
+# AC 04
+**1. Escreva a função juros simples(c, i, t) que recebe 3 parâmetros:** <br>
+- o capital inicial c, a taxa de jurosi (de 0 a 1, representando 0 a 100%), e o tempo t. Construa a lóggica que calcula o capital inicial acrescido de juros simples, e devolva (retorne) este valor. A fórmula para calcular o montante final com juros simples é a seguinte: M = c + (c * i * t)<br>
+- Em seguida, escreva a funçãojuros compostos(c, i, t) que recebe 3 parâmetros: o capital inicial c,a taxa de juros i (de 0 a 1, representando 0 a 100%), e o tempo t. Construa a lógica que calcula o capital inicial acrescido de juros compostos (montante final), e devolva (retorne) este valor. A fórmula para calcular o montante final com juros compostos é a seguinte: M = c * (1 + i)^t
+
+**2. Escreva a função checa quantidade divisores(n, qtd) que dado um inteiro positivo n e a quantidade de divisores qtd, devolva (retorne) True caso n possua qtd divisores, ou False caso contrário.**
+- Dica: você deve testar se todos os números de 1 atén são divisíveis por n.
+- Dica: para testar se um número n é divisíel por outro número i, verifique se o resto da divisão entre eles é igual a 0 (zero).
