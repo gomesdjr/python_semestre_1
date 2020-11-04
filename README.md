@@ -1,6 +1,6 @@
 ### Atividades realizadas durante o primeiro semestre da faculdade na disciplina de Linguagem de Programação.
 
-## AC 01
+# AC 01
 **1. Construa um programa que calcula a distância entre dois pontos A = (xA; yA) e B = (xB; yB) noR2 (isto é, no espaço bidimensional)**<br>
 dAB = √(xB − xA)2 + (yB − yA)2
 Ordem das intruções:
